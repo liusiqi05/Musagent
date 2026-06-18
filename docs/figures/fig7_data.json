@@ -1,0 +1,465 @@
+{
+  "rows": [
+    {
+      "theme": "校园爱情",
+      "hybrid_top1_score": 0.3623738280702364,
+      "bm25_top1_score": 0.025555555555555557,
+      "ngram_top1_score": 0.011111111111111112,
+      "overlap_hybrid_bm25": 4,
+      "hybrid_top1": "谜局",
+      "bm25_top1": "谜局"
+    },
+    {
+      "theme": "城市孤独",
+      "hybrid_top1_score": 0.39371253490129854,
+      "bm25_top1_score": 0.035590277777777776,
+      "ngram_top1_score": 0.015625,
+      "overlap_hybrid_bm25": 5,
+      "hybrid_top1": "西门行",
+      "bm25_top1": "西门行"
+    },
+    {
+      "theme": "雨夜和解",
+      "hybrid_top1_score": 0.41069208638096244,
+      "bm25_top1_score": 0.022222222222222223,
+      "ngram_top1_score": 0.0056179775280898875,
+      "overlap_hybrid_bm25": 2,
+      "hybrid_top1": "让我们再念一遍这首诗",
+      "bm25_top1": "玉臺體"
+    },
+    {
+      "theme": "黄昏落叶",
+      "hybrid_top1_score": 0.3248598240749606,
+      "bm25_top1_score": 0.022664835164835164,
+      "ngram_top1_score": 0.009615384615384616,
+      "overlap_hybrid_bm25": 4,
+      "hybrid_top1": "万象：黄昏：1",
+      "bm25_top1": "万象：黄昏：1"
+    },
+    {
+      "theme": "春节乡愁",
+      "hybrid_top1_score": 0.3943536173683108,
+      "bm25_top1_score": 0.01326211313743705,
+      "ngram_top1_score": 0.00909090909090909,
+      "overlap_hybrid_bm25": 5,
+      "hybrid_top1": "溺想",
+      "bm25_top1": "溺想"
+    },
+    {
+      "theme": "咖啡馆",
+      "hybrid_top1_score": 0.506785436987654,
+      "bm25_top1_score": 0.01639734264259881,
+      "ngram_top1_score": 0.010170250896057347,
+      "overlap_hybrid_bm25": 5,
+      "hybrid_top1": "从芦苇丛到咖啡馆",
+      "bm25_top1": "从芦苇丛到咖啡馆"
+    },
+    {
+      "theme": "雪夜归人",
+      "hybrid_top1_score": 0.3173427573553407,
+      "bm25_top1_score": 0.045454545454545456,
+      "ngram_top1_score": 0.0056179775280898875,
+      "overlap_hybrid_bm25": 5,
+      "hybrid_top1": "两京印象：西安",
+      "bm25_top1": "两京印象：西安"
+    },
+    {
+      "theme": "夏日黄昏",
+      "hybrid_top1_score": 0.34722386767744523,
+      "bm25_top1_score": 0.022664835164835164,
+      "ngram_top1_score": 0.009615384615384616,
+      "overlap_hybrid_bm25": 4,
+      "hybrid_top1": "万象：黄昏：1",
+      "bm25_top1": "万象：黄昏：1"
+    },
+    {
+      "theme": "秋日私语",
+      "hybrid_top1_score": 0.39397384426386767,
+      "bm25_top1_score": 0.018366228070175437,
+      "ngram_top1_score": 0.010416666666666666,
+      "overlap_hybrid_bm25": 5,
+      "hybrid_top1": "秋",
+      "bm25_top1": "秋"
+    },
+    {
+      "theme": "海风与归",
+      "hybrid_top1_score": 0.3914399049772481,
+      "bm25_top1_score": 0.027777777777777776,
+      "ngram_top1_score": 0.008928571428571428,
+      "overlap_hybrid_bm25": 5,
+      "hybrid_top1": "下雨",
+      "bm25_top1": "下雨"
+    },
+    {
+      "theme": "远山的呼唤",
+      "hybrid_top1_score": 0.40323214401142177,
+      "bm25_top1_score": 0.04482600732600732,
+      "ngram_top1_score": 0.02554945054945055,
+      "overlap_hybrid_bm25": 5,
+      "hybrid_top1": "低度写作：二十六",
+      "bm25_top1": "低度写作：二十六"
+    },
+    {
+      "theme": "旧书桌",
+      "hybrid_top1_score": 0.5182830933704698,
+      "bm25_top1_score": 0.015625,
+      "ngram_top1_score": 0.0043859649122807015,
+      "overlap_hybrid_bm25": 4,
+      "hybrid_top1": "科幻诗：36",
+      "bm25_top1": "科幻诗：36"
+    },
+    {
+      "theme": "雨后彩虹",
+      "hybrid_top1_score": 0.41594101356568886,
+      "bm25_top1_score": 0.07642089093701997,
+      "ngram_top1_score": 0.023809523809523808,
+      "overlap_hybrid_bm25": 5,
+      "hybrid_top1": "科幻诗：36",
+      "bm25_top1": "科幻诗：36"
+    },
+    {
+      "theme": "母亲的背影",
+      "hybrid_top1_score": 0.3804996796790998,
+      "bm25_top1_score": 0.03495368394092035,
+      "ngram_top1_score": 0.022737556561085975,
+      "overlap_hybrid_bm25": 5,
+      "hybrid_top1": "青春",
+      "bm25_top1": "青春"
+    },
+    {
+      "theme": "父亲的茶",
+      "hybrid_top1_score": 0.40759169283431684,
+      "bm25_top1_score": 0.04298064642892229,
+      "ngram_top1_score": 0.02849002849002849,
+      "overlap_hybrid_bm25": 5,
+      "hybrid_top1": "尿不湿",
+      "bm25_top1": "尿不湿"
+    },
+    {
+      "theme": "童年的蝉鸣",
+      "hybrid_top1_score": 0.4299467734841017,
+      "bm25_top1_score": 0.03903688524590164,
+      "ngram_top1_score": 0.014520902700702921,
+      "overlap_hybrid_bm25": 4,
+      "hybrid_top1": "短暂的过程",
+      "bm25_top1": "短暂的过程"
+    },
+    {
+      "theme": "离别的车站",
+      "hybrid_top1_score": 0.40774416234627037,
+      "bm25_top1_score": 0.02884009009009009,
+      "ngram_top1_score": 0.01768018018018018,
+      "overlap_hybrid_bm25": 4,
+      "hybrid_top1": "每年，我都会去火车站看看",
+      "bm25_top1": "每年，我都会去火车站看看"
+    },
+    {
+      "theme": "重逢的路口",
+      "hybrid_top1_score": 0.41045873348921275,
+      "bm25_top1_score": 0.026175213675213676,
+      "ngram_top1_score": 0.018027497194163862,
+      "overlap_hybrid_bm25": 4,
+      "hybrid_top1": "感觉",
+      "bm25_top1": "感觉"
+    },
+    {
+      "theme": "深夜电台",
+      "hybrid_top1_score": 0.2904532084238539,
+      "bm25_top1_score": 0.024390243902439025,
+      "ngram_top1_score": 0.007142857142857143,
+      "overlap_hybrid_bm25": 5,
+      "hybrid_top1": "甘南情歌：19",
+      "bm25_top1": "甘南情歌：19"
+    },
+    {
+      "theme": "老巷的猫",
+      "hybrid_top1_score": 0.3835563417002629,
+      "bm25_top1_score": 0.016129032258064516,
+      "ngram_top1_score": 0.004545454545454545,
+      "overlap_hybrid_bm25": 5,
+      "hybrid_top1": "海",
+      "bm25_top1": "海"
+    },
+    {
+      "theme": "古寺的钟",
+      "hybrid_top1_score": 0.39195139223584463,
+      "bm25_top1_score": 0.017857142857142856,
+      "ngram_top1_score": 0.006756756756756757,
+      "overlap_hybrid_bm25": 3,
+      "hybrid_top1": "默哀",
+      "bm25_top1": "默哀"
+    },
+    {
+      "theme": "雨打芭蕉",
+      "hybrid_top1_score": 0.45070929629571815,
+      "bm25_top1_score": 0.014705882352941176,
+      "ngram_top1_score": 0.004761904761904762,
+      "overlap_hybrid_bm25": 4,
+      "hybrid_top1": "科幻诗：36",
+      "bm25_top1": "科幻诗：36"
+    },
+    {
+      "theme": "月下独酌",
+      "hybrid_top1_score": 0.3917361128673107,
+      "bm25_top1_score": 0.06944444444444445,
+      "ngram_top1_score": 0.05555555555555555,
+      "overlap_hybrid_bm25": 1,
+      "hybrid_top1": "春水：八",
+      "bm25_top1": "一个软件编程师的新婚之夜"
+    },
+    {
+      "theme": "沙漠绿洲",
+      "hybrid_top1_score": 0.3476859815922439,
+      "bm25_top1_score": 0.012940677312350535,
+      "ngram_top1_score": 0.005747126436781609,
+      "overlap_hybrid_bm25": 5,
+      "hybrid_top1": "无人区的闯入者",
+      "bm25_top1": "无人区的闯入者"
+    },
+    {
+      "theme": "工地晨光",
+      "hybrid_top1_score": 0.36406939487061407,
+      "bm25_top1_score": 0.023255813953488372,
+      "ngram_top1_score": 0.004545454545454545,
+      "overlap_hybrid_bm25": 5,
+      "hybrid_top1": "靜夜思",
+      "bm25_top1": "靜夜思"
+    },
+    {
+      "theme": "病房日记",
+      "hybrid_top1_score": 0.382070819630866,
+      "bm25_top1_score": 0.01282051282051282,
+      "ngram_top1_score": 0.007352941176470588,
+      "overlap_hybrid_bm25": 5,
+      "hybrid_top1": "三人颂",
+      "bm25_top1": "三人颂"
+    },
+    {
+      "theme": "毕业季",
+      "hybrid_top1_score": 0.40492697949456596,
+      "bm25_top1_score": 0.011405723905723905,
+      "ngram_top1_score": 0.004629629629629629,
+      "overlap_hybrid_bm25": 5,
+      "hybrid_top1": "还不如是个孤儿",
+      "bm25_top1": "还不如是个孤儿"
+    },
+    {
+      "theme": "创业维艰",
+      "hybrid_top1_score": 0.3323834075967582,
+      "bm25_top1_score": 0.0058823529411764705,
+      "ngram_top1_score": 0.0,
+      "overlap_hybrid_bm25": 5,
+      "hybrid_top1": "蛇",
+      "bm25_top1": "蛇"
+    },
+    {
+      "theme": "异乡的除夕",
+      "hybrid_top1_score": 0.4574680736807823,
+      "bm25_top1_score": 0.029499050332383665,
+      "ngram_top1_score": 0.009615384615384616,
+      "overlap_hybrid_bm25": 4,
+      "hybrid_top1": "告诉亲人",
+      "bm25_top1": "告诉亲人"
+    },
+    {
+      "theme": "城市的霓虹",
+      "hybrid_top1_score": 0.40469372996680814,
+      "bm25_top1_score": 0.023276291648734966,
+      "ngram_top1_score": 0.015106042416966786,
+      "overlap_hybrid_bm25": 5,
+      "hybrid_top1": "蜻蛉湖",
+      "bm25_top1": "去扫墓"
+    },
+    {
+      "theme": "雨夜书",
+      "hybrid_top1_score": 0.33775416438734784,
+      "bm25_top1_score": 0.01639344262295082,
+      "ngram_top1_score": 0.005747126436781609,
+      "overlap_hybrid_bm25": 5,
+      "hybrid_top1": "春水：一〇九",
+      "bm25_top1": "春水：一〇九"
+    },
+    {
+      "theme": "远方的信",
+      "hybrid_top1_score": 0.35451841265434547,
+      "bm25_top1_score": 0.027992138947195128,
+      "ngram_top1_score": 0.01752273943285179,
+      "overlap_hybrid_bm25": 4,
+      "hybrid_top1": "梅开",
+      "bm25_top1": "梅开"
+    },
+    {
+      "theme": "童谣与萤火",
+      "hybrid_top1_score": 0.34580121260145597,
+      "bm25_top1_score": 0.01282051282051282,
+      "ngram_top1_score": 0.004347826086956522,
+      "overlap_hybrid_bm25": 4,
+      "hybrid_top1": "下雨",
+      "bm25_top1": "下雨"
+    },
+    {
+      "theme": "乡间小路",
+      "hybrid_top1_score": 0.3498001148030526,
+      "bm25_top1_score": 0.019418505942275042,
+      "ngram_top1_score": 0.00980392156862745,
+      "overlap_hybrid_bm25": 5,
+      "hybrid_top1": "围巾",
+      "bm25_top1": "围巾"
+    },
+    {
+      "theme": "山寺桃花",
+      "hybrid_top1_score": 0.4017666659859697,
+      "bm25_top1_score": 0.031137992831541218,
+      "ngram_top1_score": 0.013888888888888888,
+      "overlap_hybrid_bm25": 5,
+      "hybrid_top1": "楓橋夜泊",
+      "bm25_top1": "楓橋夜泊"
+    },
+    {
+      "theme": "醉里挑灯看剑",
+      "hybrid_top1_score": 0.30735752170366554,
+      "bm25_top1_score": 0.013157894736842105,
+      "ngram_top1_score": 0.006493506493506494,
+      "overlap_hybrid_bm25": 5,
+      "hybrid_top1": "科幻诗：36",
+      "bm25_top1": "科幻诗：36"
+    },
+    {
+      "theme": "老唱片",
+      "hybrid_top1_score": 0.24560472871318167,
+      "bm25_top1_score": 0.011494252873563218,
+      "ngram_top1_score": 0.0,
+      "overlap_hybrid_bm25": 5,
+      "hybrid_top1": "立春",
+      "bm25_top1": "立春"
+    },
+    {
+      "theme": "故园竹",
+      "hybrid_top1_score": 0.28764323673953446,
+      "bm25_top1_score": 0.0125,
+      "ngram_top1_score": 0.0,
+      "overlap_hybrid_bm25": 5,
+      "hybrid_top1": "乡愁：六",
+      "bm25_top1": "乡愁：六"
+    },
+    {
+      "theme": "旅行的意义",
+      "hybrid_top1_score": 0.3959925292613441,
+      "bm25_top1_score": 0.02631578947368421,
+      "ngram_top1_score": 0.014520902700702921,
+      "overlap_hybrid_bm25": 4,
+      "hybrid_top1": "下雨",
+      "bm25_top1": "下雨"
+    },
+    {
+      "theme": "童年的糖",
+      "hybrid_top1_score": 0.4046558801469365,
+      "bm25_top1_score": 0.025756278538812783,
+      "ngram_top1_score": 0.014854368932038835,
+      "overlap_hybrid_bm25": 5,
+      "hybrid_top1": "枣",
+      "bm25_top1": "枣"
+    },
+    {
+      "theme": "母亲的针线",
+      "hybrid_top1_score": 0.431066324188643,
+      "bm25_top1_score": 0.029492284718765555,
+      "ngram_top1_score": 0.011627906976744186,
+      "overlap_hybrid_bm25": 5,
+      "hybrid_top1": "夜曲六线谱",
+      "bm25_top1": "夜曲六线谱"
+    },
+    {
+      "theme": "远洋的灯塔",
+      "hybrid_top1_score": 0.4538174964523562,
+      "bm25_top1_score": 0.027306537909434946,
+      "ngram_top1_score": 0.010309278350515464,
+      "overlap_hybrid_bm25": 4,
+      "hybrid_top1": "海之外",
+      "bm25_top1": "海之外"
+    },
+    {
+      "theme": "老城根",
+      "hybrid_top1_score": 0.2465289074910565,
+      "bm25_top1_score": 0.019230769230769232,
+      "ngram_top1_score": 0.0,
+      "overlap_hybrid_bm25": 5,
+      "hybrid_top1": "金陵圖",
+      "bm25_top1": "金陵圖"
+    },
+    {
+      "theme": "巷口的老槐树",
+      "hybrid_top1_score": 0.3894178721647301,
+      "bm25_top1_score": 0.02564102564102564,
+      "ngram_top1_score": 0.01020408163265306,
+      "overlap_hybrid_bm25": 4,
+      "hybrid_top1": "有一种苏醒",
+      "bm25_top1": "有一种苏醒"
+    },
+    {
+      "theme": "旧城的光",
+      "hybrid_top1_score": 0.3519542001531011,
+      "bm25_top1_score": 0.04335016835016835,
+      "ngram_top1_score": 0.018518518518518517,
+      "overlap_hybrid_bm25": 0,
+      "hybrid_top1": "科幻诗：36",
+      "bm25_top1": "蜻蛉湖"
+    },
+    {
+      "theme": "雨后泥土的味道",
+      "hybrid_top1_score": 0.3726457547116619,
+      "bm25_top1_score": 0.039079485503169996,
+      "ngram_top1_score": 0.021555197421434327,
+      "overlap_hybrid_bm25": 4,
+      "hybrid_top1": "收割",
+      "bm25_top1": "收割"
+    },
+    {
+      "theme": "地铁独行",
+      "hybrid_top1_score": 0.4231121217473385,
+      "bm25_top1_score": 0.03492063492063492,
+      "ngram_top1_score": 0.014285714285714285,
+      "overlap_hybrid_bm25": 0,
+      "hybrid_top1": "万象：黄昏：1",
+      "bm25_top1": "世界和我：又一次请求"
+    },
+    {
+      "theme": "午夜梦回",
+      "hybrid_top1_score": 0.4308025175017052,
+      "bm25_top1_score": 0.02738095238095238,
+      "ngram_top1_score": 0.011904761904761904,
+      "overlap_hybrid_bm25": 4,
+      "hybrid_top1": "你为什么不是一株栀子花",
+      "bm25_top1": "你为什么不是一株栀子花"
+    },
+    {
+      "theme": "春风沉醉",
+      "hybrid_top1_score": 0.3587993044965594,
+      "bm25_top1_score": 0.01639344262295082,
+      "ngram_top1_score": 0.00847457627118644,
+      "overlap_hybrid_bm25": 5,
+      "hybrid_top1": "赤壁",
+      "bm25_top1": "赤壁"
+    },
+    {
+      "theme": "秋水伊人",
+      "hybrid_top1_score": 0.3174934749236762,
+      "bm25_top1_score": 0.045454545454545456,
+      "ngram_top1_score": 0.007352941176470588,
+      "overlap_hybrid_bm25": 5,
+      "hybrid_top1": "两京印象：西安",
+      "bm25_top1": "两京印象：西安"
+    }
+  ],
+  "summary": {
+    "n_themes": 50,
+    "hybrid_top1_mean": 0.3804938434804239,
+    "bm25_top1_mean": 0.026513159497220662,
+    "ngram_top1_mean": 0.011563634050785017,
+    "hybrid_top1_std": 0.05466545704207787,
+    "bm25_top1_std": 0.013793386112108836,
+    "ngram_top1_std": 0.009102613860047239,
+    "overlap_mean": 4.3,
+    "overlap_std": 1.1874342087037917
+  }
+}

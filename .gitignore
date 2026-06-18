@@ -1,27 +1,67 @@
-# Dependencies
-node_modules/
-gsap_cocktails/dist/
-
 # Python
 __pycache__/
 *.pyc
 *.pyo
-back/__pycache__/
+*.pyd
+.Python
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
 
-# VS Code local history (contains API keys in old code)
-.history/
+# 虚拟环境
+venv/
+env/
+.venv/
+ENV/
 
-# Logs
-logs/
-*.log
-npm-debug.log*
+# 前端
+node_modules/
+dist/
+.parcel-cache/
+.vite/
 
-# OS
+# 数据 / 缓存
+back/.cache/
+back/data/*.db
+back/data/*.db-shm
+back/data/*.db-wal
+back/data/*.jsonl
+back/.env
+
+# 知识库原文（从 README 提示用户下载；体积大不放仓库）
+# 如果你下载了完整的 chinese_poems.jsonl，把它放到 back/data/ 后会忽略
+
+# 编辑器 / OS
 .DS_Store
-Thumbs.db
-
-# IDE
+.idea/
 .vscode/*
 !.vscode/extensions.json
-.idea
-*.suo
+.history/
+*.swp
+*.swo
+Thumbs.db
+
+# 日志
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 测试 / 覆盖率
+.coverage
+htmlcov/
+.tox/
+.cache
+coverage.xml
+*.cover
+.hypothesis/
+
+# Docker
+Dockerfile.local
+docker-compose.override.yml
+
+# 临时
+tmp/
+temp/
+*.tmp
